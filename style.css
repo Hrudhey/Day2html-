@@ -1,0 +1,39 @@
+
+
+.grp1{
+    
+    color: rgb(247, 31, 67);
+    font-style: italic;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    position: relative;
+
+}
+a{
+    color: rgb(236, 214, 16);
+    background-color: burlywood;
+}
+.grp1 h1{
+    position: absolute;
+    left: 100px;
+    /* left: 50px; */
+}
+ 
+    
+
+form{
+     background-color: rgb(13, 231, 141); 
+     width: fit-content;
+     height: fit-content;
+      
+      border: solid black;
+      border-width: 1px;
+      padding: 10px 15px;
+      
+      
+      margin: auto;
+      
+      
+    
+}
